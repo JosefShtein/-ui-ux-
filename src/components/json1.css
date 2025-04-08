@@ -1,0 +1,7 @@
+.containers {
+    display: flex;
+      flex-wrap: wrap;
+  }
+  .legend {
+    margin-left: 15px;
+  }
