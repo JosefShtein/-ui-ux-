@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# -ui-ux-
+Интерактивный веб-интерфейс, созданный на React, обеспечивает оперативный мониторинг перемещения листов металла в производственном цехе. Приложение загружает актуальные данные из JSON-файлов, отображая текущее положение каждого листа на цифровой мнемосхеме цеха.
+>>>>>>> 3deb9fd97ca5b0a1d700f1f51cc8c4c65409ce8a
